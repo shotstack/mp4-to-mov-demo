@@ -78,8 +78,7 @@ a:hover {
 }
 
 #instructions,
-#status,
-.plyr {
+#status {
     margin-top: 3rem;
 }
 
