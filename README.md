@@ -1,11 +1,14 @@
 # Shotstack MP4 to MOV Demo
 
-This sample application shows how you can use the Shotstack Ingest API to convert MP4 videos into mov format. The Ingest
-API is a [video transformation API](https://shotstack.io/product/ingest-api/) that lets you upload, store, and convert
-videos and images into different formats, sizes, frame rates, speeds, and more.
+This sample application shows how you can use the Shotstack Ingest API to [convert MP4 videos to
+MOV](https://shotstack.io/demo/mp4-to-mov/) format. The Ingest API is a [video transformation
+API](https://shotstack.io/product/ingest-api/) that lets you upload, store, and convert videos and images into different
+formats, sizes, frame rates, speeds, and more.
 
 Using an HTML web form, users can upload a video or put in a URL of an MP4 video online. After submitting the form, the
 video is converted from MP4 to MOV. The new file can be played in the browser or downloaded.
+
+View the live demo at: https://shotstack.io/demo/mp4-to-mov/
 
 The demo is made with Node.js and works with the Express Framework or as a serverless project using AWS Lambda and API
 Gateway.
